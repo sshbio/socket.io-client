@@ -6,7 +6,7 @@
     "shSina <sina.sharafzadeh@gmail.com>"
   ],
   "description": "socket.io-client bower compatible",
-  "main": "socket.io-client/socket.io.js",
+  "main": "socket.io.js",
   "keywords": [
     "socket.io-client",
     "socket.io",
