@@ -1,6 +1,6 @@
 {
   "name": "socket.io-client",
-  "version": "0.1",
+  "version": "1.3.2",
   "homepage": "https://github.com/shSina/socket.io-client",
   "authors": [
     "shSina <sina.sharafzadeh@gmail.com>"
