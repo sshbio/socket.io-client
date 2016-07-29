@@ -1,3 +1,0 @@
-[submodule "socket.io-client"]
-	path = socket.io-client
-	url = https://github.com/Automattic/socket.io-client
